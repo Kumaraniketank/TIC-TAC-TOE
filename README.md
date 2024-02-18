@@ -10,7 +10,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe-python.git
+git clone https://github.com/Kumaraniketank/TIC-TAC-TOE.git
 Running the Game
 Navigate to the project directory and run the following command in your terminal:
 
